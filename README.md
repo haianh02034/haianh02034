@@ -1,3 +1,5 @@
+![logo](https://github.com/haianh02034/haianh02034/blob/main/banner%20git.jpg)
+
 <h1 align="center">Hi 👋, I'm Hai Anh</h1>
 <h3 align="center">I'm from Vietnam</h3>
 
